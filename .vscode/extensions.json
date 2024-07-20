@@ -3,5 +3,4 @@ git clone https://github.com/yourusername/yourrepository.gi
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
     "johnsoncodehk.volar"
-  ]
-}
+ 
