@@ -34,7 +34,7 @@
     "rango-sdk-basic": "^0.1.62",
     "reconnecting-websocket": "^4.4.0",
     "uuid": "^11.0.5",
-    "web3-eth": "^1.10.4",
+    "web3-eth": "^4.0.1",
     "web3-utils": "^1.10.4",
     "ws": "^8.18.0"
   },
