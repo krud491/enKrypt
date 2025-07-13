@@ -22,8 +22,8 @@
     "node": ">=14.15.0"
   },
   "dependencies": {
-    "@enkryptcom/signer-bitcoin": "workspace:^",
-    "@enkryptcom/signer-ethereum": "workspace:^",
+    "@enkryptcom/signer-bitcoin": "0.0.2",
+    "@enkryptcom/signer-ethereum": "0.0.3",
     "@enkryptcom/signer-kadena": "workspace:^",
     "@enkryptcom/signer-polkadot": "workspace:^",
     "@enkryptcom/storage": "workspace:^",
