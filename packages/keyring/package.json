@@ -25,7 +25,7 @@
     "@enkryptcom/signer-bitcoin": "0.0.2",
     "@enkryptcom/signer-ethereum": "0.0.3",
     "@enkryptcom/signer-kadena": "workspace:^",
-    "@enkryptcom/signer-polkadot": "workspace:^",
+    "@enkryptcom/signer-polkadot": "0.0.2",
     "@enkryptcom/storage": "0.0.2",
     "@enkryptcom/types": "0.0.1",
     "@enkryptcom/utils": "workspace:^",
