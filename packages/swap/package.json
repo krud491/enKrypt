@@ -38,7 +38,7 @@
     "uuid": "^13.0.2",
     "web3-eth": "^1.10.4",
     "web3-utils": "^1.10.4",
-    "ws": "^8.21.0"
+    "ws": "^8.21.1"
   },
   "devDependencies": {
     "@types/node": "^22.19.19",
